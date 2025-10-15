@@ -1,4 +1,4 @@
-[![RITESH_ANIM](https://plus.unsplash.com/premium_photo-1676243407463-468804b9ecaf?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170)](https://github.com/riteshkalluri04)
+[![RITESH_ANIM](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)](https://github.com/riteshkalluri04)
 
 # Hello! 👋
 <img align="right" alt="Ritesh" width="28%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ0dTh1NDV4bm16YWR1cGFweXBpc2F2azhzbjBqcGplejI3Y2VoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" />
