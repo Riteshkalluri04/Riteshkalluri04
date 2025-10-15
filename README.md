@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/ritesh-kalluri-572186328/" target="_blank" rel="noreferrer">
     <img width="36" height="36" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/linkedin.svg"/>
   </a>&nbsp;
-  <a href="https://t.me/riteshkalluri04" target="_blank" rel="noreferrer">
+  <a href="https://t.me/Ritessh_04" target="_blank" rel="noreferrer">
     <img width="36" height="36" alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/telegram.svg"/>
   </a>&nbsp;
   <a href="mailto:riteshkalluri40@gmail.com">
