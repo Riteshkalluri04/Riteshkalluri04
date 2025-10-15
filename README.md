@@ -1,7 +1,6 @@
 [![RITESH_ANIM](images/gif.gif)](https://github.com/riteshkalluri04)
 
 # Hello! 👋
-<img align="right" alt="Ritesh" width="28%" 
 <img align="right" alt="Ritesh" width="28%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ0dTh1NDV4bm16YWR1cGFweXBpc2F2azhzbjBqcGplejI3Y2VoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" />
 
 
@@ -44,10 +43,6 @@
 <br>
 
 
-<div align=center>
-  <p>My Telegram channel: <b><a href="https://t.me/yourchannel">YourChannelName</a></b></p>
-</div>
-
 <div align="center">
   <a href="https://www.instagram.com/riteshkalluri.04/" target="_blank" rel="noreferrer">
     <img width="36" height="36" alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/instagram.svg"/>
@@ -58,9 +53,11 @@
   <a href="https://t.me/riteshkalluri04" target="_blank" rel="noreferrer">
     <img width="36" height="36" alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/telegram.svg"/>
   </a>&nbsp;
-  <a href="mailto:qwqoro@ya.ru">
+  <a href="mailto:riteshkalluri40@gmail.com">
     <img width="36" height="36" alt="Mail" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/gmail.svg"/>
   </a>&nbsp;
+</div>
+
   
 </div>
 
