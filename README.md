@@ -1,6 +1,6 @@
-[![RITESH_ANIM](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)](https://github.com/riteshkalluri04)
 
-# Hello! 👋
+# 👋 Hello, I'm Ritesh Kalluri
+
 <img align="right" alt="Ritesh" width="28%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ0dTh1NDV4bm16YWR1cGFweXBpc2F2azhzbjBqcGplejI3Y2VoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" />
 
 
