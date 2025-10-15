@@ -47,17 +47,18 @@
   <p>My Telegram channel: <b><a href="https://t.me/yourchannel">YourChannelName</a></b></p>
 </div>
 
-<div align=center>
-  <a href="https://t.me/your_telegram">
-    <img width=36 height=36 alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/telegram.svg"/>
+<div align="center">
+  <a href="https://www.instagram.com/riteshkalluri.04/" target="_blank" rel="noreferrer">
+    <img width="36" height="36" alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/instagram.svg"/>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/ritesh-kalluri-572186328/">
-    <img width=36 height=36 alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/linkedin.svg"/>
+  <a href="https://www.linkedin.com/in/ritesh-kalluri-572186328/" target="_blank" rel="noreferrer">
+    <img width="36" height="36" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/linkedin.svg"/>
   </a>&nbsp;
-  <a href="https://app.hackthebox.com/profile/your-htb-id">
-    <img width=36 height=36 alt="HackTheBox" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/hackthebox.svg"/>
+  <a href="https://t.me/riteshkalluri04" target="_blank" rel="noreferrer">
+    <img width="36" height="36" alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/telegram.svg"/>
   </a>&nbsp;
   <a href="mailto:riteshkalluri40@gmail.com">
-    <img width=36 height=36 alt="Mail" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/gmail.svg"/>
+    <img width="36" height="36" alt="Mail" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/gmail.svg"/>
   </a>
 </div>
+
