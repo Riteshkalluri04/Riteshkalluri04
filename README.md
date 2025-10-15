@@ -1,7 +1,8 @@
 [![RITESH_ANIM](images/gif.gif)](https://github.com/riteshkalluri04)
 
 # Hello! 👋
-<img align="right" alt="🐼" width="28%" src="images/🐼.jpg" />
+<img align="right" alt="Ritesh" width="28%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZtanA5NmllaTg5Mm4yeTUxc3F2emhwanhzcjdnemd1bm9hZmw2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" />
+
 
 [![ Pronouns         ](https://img.shields.io/badge/[%20He%20/%20Him%20]-informational?style=flat-square&color=eeeeee)]()
 [![ Languages        ](https://img.shields.io/badge/[%20EN%20]-informational?style=flat-square&color=eeeeee)]()
