@@ -1,34 +1,61 @@
-<h1 align="center">Hi 👋, I'm Ritesh Kalluri</h1>
-<h3 align="center">Cybersecurity & Bug Bounty Enthusiast | Networking, Linux & Python Automation</h3>
+[![RITESH_ANIM](images/gif.gif)](https://github.com/riteshkalluri04)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshkalluri04&label=Profile%20views&color=0e75b6&style=flat" alt="riteshkalluri04" /> </p>
+# Hello! 👋
+<img align="right" alt="🐼" width="28%" src="images/🐼.jpg" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riteshkalluri04" alt="riteshkalluri04" /></a> </p>
+[![ Pronouns         ](https://img.shields.io/badge/[%20He%20/%20Him%20]-informational?style=flat-square&color=eeeeee)]()
+[![ Languages        ](https://img.shields.io/badge/[%20EN%20]-informational?style=flat-square&color=eeeeee)]()
 
-- 🔭 I’m currently working on **Shopify Bug Bounty Testing**
+- 🔓 Cybersecurity enthusiast & bug bounty hunter  
+- 🐉 Focus: Web application security, recon & automation  
+- ⚙️ I do Web Application Penetration Testing and recon  
+- ⚔️ I participate in CTF events and solve labs  
+- ⌨️ I hack, script & learn because I love it
 
-- 🌱 I’m currently learning **SOC,SIEM Tools,VAPT, Advanced Python Scripting**
+<div align="left">
+  <a href="https://example.com/your-resume.pdf"><img src="https://img.shields.io/badge/CV%20[EN]-informational?style=for-the-badge&color=808080"/></a>&nbsp;
+  <a href="https://example.com/your-cv-otherlang.pdf"><img src="https://img.shields.io/badge/CV%20[OTHER]-informational?style=for-the-badge&color=808080"/></a>
+</div>
 
-- 👯 I’m looking to collaborate on **Open-source cybersecurity projects and CTF challenges**
+## Interests
+[![ Cyber Security     ](https://img.shields.io/badge/Cyber%20Security-informational?style=for-the-badge&color=424242)]()
+[![ Penetration Test   ](https://img.shields.io/badge/Penetration%20Test-informational?style=for-the-badge&color=bebebe)]()
+[![ Web Exploitation   ](https://img.shields.io/badge/Web%20Exploitation-informational?style=for-the-badge&color=bebebe)]()
+[![ Forensics         ](https://img.shields.io/badge/Forensics-informational?style=for-the-badge&color=bebebe)]()
+<br>
+[![ CTF               ](https://img.shields.io/badge/CTF-informational?style=for-the-badge&color=424242)]()
+[![ Automation        ](https://img.shields.io/badge/Automation-informational?style=for-the-badge&color=424242)]()
 
-- 🤝 I’m looking for help with **Advanced penetration testing techniques**
+## Technologies
+[![ OS: Kali Linux       ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Kali%20Linux&logo=kalilinux)]()
+[![ Code: Bash           ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Bash&logo=gnubash)]()
+[![ Code: Python         ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Python&logo=python)]()
+[![ Code: JavaScript     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=JavaScript&logo=javascript)]()
+[![ Tool: Docker        ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Tool&message=Docker&logo=docker)]()
+[![ Tool: BurpSuite     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Tool&message=BurpSuite)]()
+[![ Tool: Nmap          ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Tool&message=Nmap)]()
+[![ Tool: Wireshark     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Tool&message=Wireshark)]()
+<br><p></p>
 
-- 💬 Ask me about **Cybersecurity, Bug Bounty, Networking**
+`[BurpSuite + extensions]` `[Metasploit]` `[Nmap]` `[Nikto]` `[Sqlmap]` `[Impacket]` `[Bloodhound]` `[Mimikatz]` `[Wireshark]` `[NetworkMiner]` `[volatility]` `[Ghidra]` `[x64dbg]` ...
 
-- 📫 How to reach me **riteshkalluri40@gmail.com**
+<br>
 
-- ⚡ Fun fact **I love solving challenges and learning new cybersecurity tricks**
+<div align=center>
+  <p>My Telegram channel: <b><a href="https://t.me/yourchannel">YourChannelName</a></b></p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ritesh kalluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh kalluri" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshkalluri04&show_icons=true&locale=en&layout=compact" alt="riteshkalluri04" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshkalluri04&show_icons=true&locale=en" alt="riteshkalluri04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshkalluri04&" alt="riteshkalluri04" /></p>
+<div align=center>
+  <a href="https://t.me/your_telegram">
+    <img width=36 height=36 alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/telegram.svg"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/ritesh-kalluri-572186328/">
+    <img width=36 height=36 alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/linkedin.svg"/>
+  </a>&nbsp;
+  <a href="https://app.hackthebox.com/profile/your-htb-id">
+    <img width=36 height=36 alt="HackTheBox" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/hackthebox.svg"/>
+  </a>&nbsp;
+  <a href="mailto:riteshkalluri40@gmail.com">
+    <img width=36 height=36 alt="Mail" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/gmail.svg"/>
+  </a>
+</div>
