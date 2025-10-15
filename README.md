@@ -57,7 +57,7 @@
   <a href="https://t.me/riteshkalluri04" target="_blank" rel="noreferrer">
     <img width="36" height="36" alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/telegram.svg"/>
   </a>&nbsp;
-  <a href="mailto:riteshkalluri40@gmail.com">
+  <a href="mailto:qwqoro@ya.ru">
     <img width="36" height="36" alt="Mail" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/gmail.svg"/>
   </a>
 </div>
